@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_interests_interests",
+  "info": {
+    "displayName": "interests",
+    "icon": "book"
+  },
+  "options": {},
+  "attributes": {
+    "interest": {
+      "type": "string"
+    }
+  }
+}

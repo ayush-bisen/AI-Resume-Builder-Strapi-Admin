@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_languages_languages",
+  "info": {
+    "displayName": "languages",
+    "icon": "clock"
+  },
+  "options": {},
+  "attributes": {
+    "language": {
+      "type": "string"
+    }
+  }
+}

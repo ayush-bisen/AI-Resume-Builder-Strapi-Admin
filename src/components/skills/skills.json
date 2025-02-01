@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_skills_skills",
+  "info": {
+    "displayName": "skills",
+    "icon": "book",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "skill": {
+      "type": "string"
+    }
+  }
+}

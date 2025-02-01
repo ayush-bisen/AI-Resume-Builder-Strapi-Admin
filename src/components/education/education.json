@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_education_educations",
+  "info": {
+    "displayName": "Education",
+    "icon": "emotionHappy",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "institution": {
+      "type": "string"
+    },
+    "degree": {
+      "type": "string"
+    },
+    "startDate": {
+      "type": "string"
+    },
+    "endDate": {
+      "type": "string"
+    },
+    "achievements": {
+      "type": "text"
+    },
+    "eduId": {
+      "type": "integer"
+    }
+  }
+}

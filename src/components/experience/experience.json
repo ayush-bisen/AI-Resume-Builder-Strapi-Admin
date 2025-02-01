@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_experience_experiences",
+  "info": {
+    "displayName": "experience",
+    "icon": "alien",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "positionTitle": {
+      "type": "string"
+    },
+    "companyName": {
+      "type": "string"
+    },
+    "startDate": {
+      "type": "string"
+    },
+    "endDate": {
+      "type": "string"
+    },
+    "summery": {
+      "type": "text"
+    },
+    "expId": {
+      "type": "integer"
+    }
+  }
+}
